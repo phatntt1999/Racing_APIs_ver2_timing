@@ -1,0 +1,24 @@
+{
+  "name": "vm2",
+  "version": "1.0.0",
+  "description": "Timing service APIs VM2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.3",
+    "puppeteer": "^23.7.0"
+  }
+}
